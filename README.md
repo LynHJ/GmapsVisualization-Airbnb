@@ -16,29 +16,29 @@ Our data was collected from http://insideairbnb.com/western-australia in which w
 
 ### Questions
 1.Which suburbs are the most popular to stay, based on the numbers of reviews? What factors may cause this?
-![alt text](https://github.com/LynHJ/Project-Airbnb/blob/fafad5cb26cf28da81db9cf58b2a51860245eadb/OutputData/TotalReviews(Heatmap).png)
+![alt text](https://github.com/LynHJ/Project-Airbnb/blob/fafad5cb26cf28da81db9cf58b2a51860245eadb/OutputData/TotalReviews(Heatmap).png){:height=“100px” width=“100px”}
 2.Are there any correlations between occupancy and price?
-![alt text](https://github.com/LynHJ/Project-Airbnb/blob/fafad5cb26cf28da81db9cf58b2a51860245eadb/OutputData/result1.png)
-![alt text](https://github.com/LynHJ/Project-Airbnb/blob/fafad5cb26cf28da81db9cf58b2a51860245eadb/OutputData/result2.png)
+![alt text](https://github.com/LynHJ/Project-Airbnb/blob/fafad5cb26cf28da81db9cf58b2a51860245eadb/OutputData/result1.png){:height=“100px” width=“100px”}
+![alt text](https://github.com/LynHJ/Project-Airbnb/blob/fafad5cb26cf28da81db9cf58b2a51860245eadb/OutputData/result2.png){:height=“100px” width=“100px”}
 3.What is the average price between short, medium and long-term stays?
-![alt text](https://github.com/LynHJ/Project-Airbnb/blob/fafad5cb26cf28da81db9cf58b2a51860245eadb/OutputData/result3.png)
+![alt text](https://github.com/LynHJ/Project-Airbnb/blob/fafad5cb26cf28da81db9cf58b2a51860245eadb/OutputData/result3.png){:height=“100px” width=“100px”}
 4.What price should I advertise the property to ensure I get a booking?
-![alt text](https://github.com/LynHJ/Project-Airbnb/blob/fafad5cb26cf28da81db9cf58b2a51860245eadb/OutputData/result3.png)
+![alt text](https://github.com/LynHJ/Project-Airbnb/blob/fafad5cb26cf28da81db9cf58b2a51860245eadb/OutputData/result3.png){:height=“100px” width=“100px”}
 
 
 
 ## Content:
 Project  
 |  
-|-InputData:|-neighbourhoods.csv  
+|&nbsp;-InputData:&nbsp;|-neighbourhoods.csv  
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-listings.csv  
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-reviews.csv  
 |-OutputData:|-avg_price_entire_apt.csv  
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-avg_price_private_room.csv  
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Price(Heatmap).png  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-TotalReviews(Heatmap).png
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-result1.png
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-result2.png
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-TotalReviews(Heatmap).png  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-result1.png  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-result2.png  
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-result3.png  
 |-Project_Airbnb.ipynb  
 |-Presentation_file.txt  
