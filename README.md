@@ -16,33 +16,41 @@ Our data was collected from http://insideairbnb.com/western-australia in which w
 
 ### Questions
 1.Which suburbs are the most popular to stay, based on the numbers of reviews? What factors may cause this?
+![alt text](https://github.com/LynHJ/Project-Airbnb/blob/fafad5cb26cf28da81db9cf58b2a51860245eadb/OutputData/TotalReviews(Heatmap).png)
 2.Are there any correlations between occupancy and price?
+![alt text](https://github.com/LynHJ/Project-Airbnb/blob/fafad5cb26cf28da81db9cf58b2a51860245eadb/OutputData/result1.png)
+![alt text](https://github.com/LynHJ/Project-Airbnb/blob/fafad5cb26cf28da81db9cf58b2a51860245eadb/OutputData/result2.png)
 3.What is the average price between short, medium and long-term stays?
+![alt text](https://github.com/LynHJ/Project-Airbnb/blob/fafad5cb26cf28da81db9cf58b2a51860245eadb/OutputData/result3.png)
 4.What price should I advertise the property to ensure I get a booking?
+![alt text](https://github.com/LynHJ/Project-Airbnb/blob/fafad5cb26cf28da81db9cf58b2a51860245eadb/OutputData/result3.png)
 
 
 
 ## Content:
-Project
-|
-|-InputData:|-neighbourhoods.csv
-|          |-listings.csv
-|          |-reviews.csv
-|-OutputData:|-avg_price_entire_apt.csv
-|           |-avg_price_private_room.csv
-|           |-Price(Heatmap).png
-|           |-TotalReviews(Heatmap).png
-|-Final.ipynb
-|-Presentation_file.txt
-|-Project Draft.docx
-|-README.md
+Project  
+|  
+|-InputData:|-neighbourhoods.csv  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-listings.csv  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-reviews.csv  
+|-OutputData:|-avg_price_entire_apt.csv  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-avg_price_private_room.csv  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Price(Heatmap).png  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-TotalReviews(Heatmap).png
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-result1.png
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-result2.png
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-result3.png  
+|-Project_Airbnb.ipynb  
+|-Presentation_file.txt  
+|-Project Draft.docx  
+|-README.md  
 
 ## Installation
-1.conda env create -n PythonData --file intro_python_requirements_osx.yml python=3.7
-2.pip install notebook
-3.jupyter nbextension enable --py --sys-prefix widgetsnbextension
-  conda install -c conda-forge gmaps
-  jupyter nbextension enable --py --sys-prefix gmaps
+1.conda env create -n PythonData --file intro_python_requirements_osx.yml python=3.7  
+2.pip install notebook  
+3.jupyter nbextension enable --py --sys-prefix widgetsnbextension  
+  conda install -c conda-forge gmaps  
+  jupyter nbextension enable --py --sys-prefix gmaps  
 4.conda install matplotlib  
   
 
