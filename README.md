@@ -47,7 +47,8 @@ Project
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-result4.png   
 |-Project_Airbnb.ipynb  
 |-Presentation_file.txt  
-|-Project Draft.docx  
+|-Project Draft.docx 
+|-.gitignore 
 |-README.md  
 
 ## Installation
