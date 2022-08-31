@@ -16,16 +16,20 @@ Our data was collected from http://insideairbnb.com/western-australia in which w
 
 ### Questions
 1.Which suburbs are the most popular to stay, based on the numbers of reviews? What factors may cause this?
-![alt text](https://github.com/LynHJ/Project-Airbnb/blob/fafad5cb26cf28da81db9cf58b2a51860245eadb/OutputData/TotalReviews(Heatmap).png){:height=“100px” width=“100px”}
+![alt text](https://github.com/LynHJ/Project-Airbnb/blob/fafad5cb26cf28da81db9cf58b2a51860245eadb/OutputData/TotalReviews(Heatmap).png)
 2.Are there any correlations between occupancy and price?
-![alt text](https://github.com/LynHJ/Project-Airbnb/blob/fafad5cb26cf28da81db9cf58b2a51860245eadb/OutputData/result1.png){:height=“100px” width=“100px”}
-![alt text](https://github.com/LynHJ/Project-Airbnb/blob/fafad5cb26cf28da81db9cf58b2a51860245eadb/OutputData/result2.png){:height=“100px” width=“100px”}
+![alt text](https://github.com/LynHJ/Project-Airbnb/blob/fafad5cb26cf28da81db9cf58b2a51860245eadb/OutputData/result1.png)
+![alt text](https://github.com/LynHJ/Project-Airbnb/blob/fafad5cb26cf28da81db9cf58b2a51860245eadb/OutputData/result2.png)
 3.What is the average price between short, medium and long-term stays?
-![alt text](https://github.com/LynHJ/Project-Airbnb/blob/fafad5cb26cf28da81db9cf58b2a51860245eadb/OutputData/result3.png){:height=“100px” width=“100px”}
+![alt text](https://github.com/LynHJ/Project-Airbnb/blob/fafad5cb26cf28da81db9cf58b2a51860245eadb/OutputData/result3.png)
 4.What price should I advertise the property to ensure I get a booking?
-![alt text](https://github.com/LynHJ/Project-Airbnb/blob/fafad5cb26cf28da81db9cf58b2a51860245eadb/OutputData/result3.png){:height=“100px” width=“100px”}
+![alt text](https://github.com/LynHJ/Project-Airbnb/blob/fafad5cb26cf28da81db9cf58b2a51860245eadb/OutputData/result3.png)
 
-
+#### Summary
+1.We use the heatmap method to visualise our data. We can easily see that Fremantle, Perth, and Stirling are the most popular areas.  
+2.After doing Regression Analysis, we made a conclusion that travelers who use Airbnb to rent accommodations would choose the locations based on their personal preference rather than renting costs.  
+3.We choose 3 of the most popular areas as our targets. We found out that the renting cost would increase or decrease when the renting periods vary. This result might give travelers an idea about deciding where to live when they arrange their different durations of holiday.  
+4.We groupby suburbs and calculate the average costs of rental. The result could assist hosts to rent out their properties.  
 
 ## Content:
 Project  
