@@ -23,7 +23,7 @@ Our data was collected from http://insideairbnb.com/western-australia in which w
 3.What is the average price between short, medium and long-term stays?
 ![alt text](https://github.com/LynHJ/Project-Airbnb/blob/fafad5cb26cf28da81db9cf58b2a51860245eadb/OutputData/result3.png)
 4.What price should I advertise the property to ensure I get a booking?
-![alt text](https://github.com/LynHJ/Project-Airbnb/blob/fafad5cb26cf28da81db9cf58b2a51860245eadb/OutputData/result4.png)
+![alt text](https://github.com/LynHJ/Project-Airbnb/blob/17e07f9e8710158b8fdd38b6a81489b798c40256/OutputData/result4.png)
 
 #### Summary
 1.We use the heatmap method to visualise our data. We can easily see that Fremantle, Perth, and Stirling are the most popular areas.  
@@ -44,7 +44,7 @@ Project
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-result1.png  
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-result2.png  
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-result3.png
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-result4.png  
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-result4.png   
 |-Project_Airbnb.ipynb  
 |-Presentation_file.txt  
 |-Project Draft.docx  
