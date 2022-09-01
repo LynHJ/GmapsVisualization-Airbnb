@@ -52,6 +52,7 @@ Project
 |-README.md  
 
 ## Installation
+
 1.conda env create -n PythonData --file intro_python_requirements_osx.yml python=3.7  
 2.pip install notebook  
 3.jupyter nbextension enable --py --sys-prefix widgetsnbextension  
@@ -61,13 +62,15 @@ Project
   
 
 ## Prerequisites
+
 Get a free API Key at https://cloud.google.com/maps-platform/
 Clone the repo
 git clone https://github.com/your_username_/Project-Name.git
 Create a api-keys.py to put your API in
 gkey = 'ENTER YOUR API'
 
-Appendix/Reference
+### Appendix/Reference
+
 1.http://insideairbnb.com/western-australia
 2.https://www.stratosjets.com/blog/airbnb-statistics/
 3.https://www.businesswire.com/news/home/20220617005279/en/Global-Online-Food-Delivery-Services-Markets-2022-2026-2031-with-takeaway.com-Doordash-Deliveroo-Uber-eats-Zomato-Dominating---ResearchAndMarkets.com#:~:text=The%20market%20is%20expected%20to,(CAGR)%20of%205.6%25.
