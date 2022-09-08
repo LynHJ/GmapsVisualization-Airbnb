@@ -32,25 +32,27 @@ Our data was collected from http://insideairbnb.com/western-australia in which w
 4.We groupby suburbs and calculate the average costs of rental. The result could assist hosts to rent out their properties.  
 
 ## Content:
+```
 Project  
-|  
-|&nbsp;-InputData:&nbsp;|-neighbourhoods.csv  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-listings.csv  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-reviews.csv  
-|-OutputData:|-avg_price_entire_apt.csv  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-avg_price_private_room.csv  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-Price(Heatmap).png  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-TotalReviews(Heatmap).png  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-result1.png  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-result2.png  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-result3.png  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-result4.png   
-|-Project_Airbnb.ipynb    
-|-Presentation_file.txt    
-|-Project Draft.docx   
-|-.gitignore   
-|-README.md  
-|-requirements.txt    
+├── InputData
+│   ├── listings.csv
+│   ├── neighbourhoods.csv
+│   └── reviews.csv
+├── OutputData
+│   ├── Price(Heatmap).png
+│   ├── TotalReviews(Heatmap).png
+│   ├── result1.png
+│   ├── result2.png
+│   ├── result3.png
+│   └── result4.png
+├── Presentation_file.txt
+├── Project Draft.docx
+├── Project_Airbnb.ipynb
+├── README.md
+├── .gitignore 
+├── requirements.txt 
+
+```  
 
 ## Installation
 
