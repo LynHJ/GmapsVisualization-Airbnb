@@ -49,17 +49,12 @@ Project
 |-Presentation_file.txt  
 |-Project Draft.docx 
 |-.gitignore 
-|-README.md  
+|-README.md
+|-requirements.txt  
 
 ## Installation
 
-1.conda env create -n PythonData --file intro_python_requirements_osx.yml python=3.7  
-2.pip install notebook  
-3.jupyter nbextension enable --py --sys-prefix widgetsnbextension  
-  conda install -c conda-forge gmaps  
-  jupyter nbextension enable --py --sys-prefix gmaps  
-4.conda install matplotlib  
-  
+pip install -r requirements.txt
 
 ## Prerequisites
 
