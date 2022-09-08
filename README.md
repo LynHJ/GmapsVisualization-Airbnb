@@ -43,14 +43,14 @@ Project
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-TotalReviews(Heatmap).png  
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-result1.png  
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-result2.png  
-|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-result3.png
+|&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-result3.png  
 |&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;|-result4.png   
-|-Project_Airbnb.ipynb  
-|-Presentation_file.txt  
-|-Project Draft.docx 
-|-.gitignore 
-|-README.md
-|-requirements.txt  
+|-Project_Airbnb.ipynb    
+|-Presentation_file.txt    
+|-Project Draft.docx   
+|-.gitignore   
+|-README.md  
+|-requirements.txt    
 
 ## Installation
 
