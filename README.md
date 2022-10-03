@@ -2,9 +2,10 @@
 
 
 ## Project
+
 Project Topic:Share Economy
 
-Team Member:
+Team Member:  
 <a href="github.com/nickjaycarr88" target="_blank">Nick Carr</a>  
 <a href="github.com/BharatGuturi" target="_blank">Bharat Guturi</a>  
 <a href="github.com/LynHJ" target="_blank">Lin Huan Jhe</a>  
