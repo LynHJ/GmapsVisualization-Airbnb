@@ -4,17 +4,19 @@
 ## Project
 Project Topic:Share Economy
 
-Team Member:Nick Carr,Bharat Guturi,Lin Huan Jhe
+Team Member:<a href:="github.com/nickjaycarr88">Nick Carr</a>,<a href:="github.com/BharatGuturi">Bharat Guturi</a>,<a href:="github.com/LynHHJ">Lin Huan Jhe</a>
 
-Introduction:
+### Introduction:
 
 The share economy has quickly become a big part of our life and is continuing to grow and innovate industries at a rapid rate. We have decided to gain more insight into the use of Airbnb in Perth metropolitan area. Our end goal is to find out which areas are the most sought out places to stay, how long people stay in these areas and what is an expected price to pay for these places.
 
 ### Source
+
 Our data was collected from http://insideairbnb.com/western-australia in which we cleaned the data to ensure we were only using columns that were going to allow us to ask and find answers from our data. Our focus accommodation type is entire house/apartment and private rooms, as these two types of accommodation make up roughly 98% of the Perth metropolitan market. 
 
 
 ### Questions
+
 1.Which suburbs are the most popular to stay, based on the numbers of reviews? What factors may cause this?
 ![alt text](https://github.com/LynHJ/Project-Airbnb/blob/fafad5cb26cf28da81db9cf58b2a51860245eadb/OutputData/TotalReviews(Heatmap).png)
 2.Are there any correlations between occupancy and price?
@@ -26,6 +28,7 @@ Our data was collected from http://insideairbnb.com/western-australia in which w
 ![alt text](https://github.com/LynHJ/Project-Airbnb/blob/17e07f9e8710158b8fdd38b6a81489b798c40256/OutputData/result4.png)
 
 #### Summary
+
 1.We use the heatmap method to visualise our data. We can easily see that Fremantle, Perth, and Stirling are the most popular areas.  
 2.After doing Regression Analysis, we made a conclusion that travelers who use Airbnb to rent accommodations would choose the locations based on their personal preference rather than renting costs.  
 3.We choose 3 of the most popular areas as our targets. We found out that the renting cost would increase or decrease when the renting periods vary. This result might give travelers an idea about deciding where to live when they arrange their different durations of holiday.  
