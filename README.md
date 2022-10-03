@@ -33,10 +33,10 @@ Our data was collected from http://insideairbnb.com/western-australia in which w
 
 #### Summary
 
-1.We use the heatmap method to visualise our data. We can easily see that Fremantle, Perth, and Stirling are the most popular areas.  
-2.After doing Regression Analysis, we made a conclusion that travelers who use Airbnb to rent accommodations would choose the locations based on their personal preference rather than renting costs.  
-3.We choose 3 of the most popular areas as our targets. We found out that the renting cost would increase or decrease when the renting periods vary. This result might give travelers an idea about deciding where to live when they arrange their different durations of holiday.  
-4.We groupby suburbs and calculate the average costs of rental. The result could assist hosts to rent out their properties.  
+1. We use the heatmap method to visualise our data. We can easily see that Fremantle, Perth, and Stirling are the most popular areas.  
+2. After doing Regression Analysis, we made a conclusion that travelers who use Airbnb to rent accommodations would choose the locations based on their personal preference rather than renting costs.  
+3. We choose 3 of the most popular areas as our targets. We found out that the renting cost would increase or decrease when the renting periods vary. This result might give travelers an idea about deciding where to live when they arrange their different durations of holiday.  
+4. We groupby suburbs and calculate the average costs of rental. The result could assist hosts to rent out their properties.  
 
 ## Content:
 ```
@@ -67,11 +67,11 @@ pip install -r requirements.txt
 
 ## Prerequisites
 
-Get a free API Key at https://cloud.google.com/maps-platform/
-Clone the repo
-git clone https://github.com/your_username_/Project-Name.git
-Create a api-keys.py to put your API in
-gkey = 'ENTER YOUR API'
+Get a free API Key at https://cloud.google.com/maps-platform/  
+Clone the repo  
+git clone https://github.com/your_username_/Project-Name.git  
+Create a api-keys.py to put your API in  
+gkey = 'ENTER YOUR API'  
 
 ### Appendix/Reference
 
