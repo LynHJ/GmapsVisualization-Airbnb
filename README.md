@@ -36,7 +36,8 @@ Our data was collected from http://insideairbnb.com/western-australia in which w
 1. We use the heatmap method to visualise our data. We can easily see that Fremantle, Perth, and Stirling are the most popular areas.  
 2. After doing Regression Analysis, we made a conclusion that travelers who use Airbnb to rent accommodations would choose the locations based on their personal preference rather than renting costs.  
 3. We choose 3 of the most popular areas as our targets. We found out that the renting cost would increase or decrease when the renting periods vary. This result might give travelers an idea about deciding where to live when they arrange their different durations of holiday.  
-4. We groupby suburbs and calculate the average costs of rental. The result could assist hosts to rent out their properties.  
+4. We groupby suburbs and calculate the average costs of rental. The result could assist hosts to rent out their properties. 
+5. Based on the results from the section'Advertising A Metropolitan-Area Property On Airbnb' and the dashboard on http://insideairbnb.com/western-australia, 81% of properties posted on Airbnb are entire homes or apartments and most of time, hosters are wellin to rent out their private rooms with shot period.
 
 ## Content:
 ```
@@ -48,16 +49,17 @@ Project
 ├── OutputData
 │   ├── Price(Heatmap).png
 │   ├── TotalReviews(Heatmap).png
+│   ├── avgprice_entireHome_apt_.csv
+│   ├── avgprice_privateRoom.csv
 │   ├── result1.png
 │   ├── result2.png
 │   ├── result3.png
 │   └── result4.png
 ├── Presentation_file.txt
 ├── Project Draft.docx
-├── Project_Airbnb.ipynb
+├── ProjectAirbnb.ipynb
 ├── README.md
-├── .gitignore 
-├── requirements.txt 
+├── requirements.txt
 
 ```  
 
