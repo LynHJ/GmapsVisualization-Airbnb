@@ -69,11 +69,11 @@ pip install -r requirements.txt
 
 ## Prerequisites
 
-Get a free API Key at https://cloud.google.com/maps-platform/  
+Get a free API-KEY at https://cloud.google.com/maps-platform/  
 Clone the repo  
 git clone https://github.com/your_username_/Project-Name.git  
-Create a api-keys.py to put your API in  
-gkey = 'ENTER YOUR API'  
+Create a api-keys.py to store your API-KEY in  
+gkey = 'ENTER YOUR API-KEY'  
 
 ### Appendix/Reference
 
