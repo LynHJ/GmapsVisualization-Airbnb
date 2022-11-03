@@ -1,5 +1,12 @@
 # Airbnb OpenData - Where To Stay? 
 
+![](https://img.shields.io/badge/gmaps-0.9.0-informational?style=plastic&logo=appveyor)
+![](https://img.shields.io/badge/matplotlib-3.2.2-informational?style=plastic&logo=appveyor)
+![](https://img.shields.io/badge/numpy-1.23.4-informational?style=plastic&logo=appveyor)
+![](https://img.shields.io/badge/pandas-1.0.3-informational?style=plastic&logo=appveyor)
+![](https://img.shields.io/badge/requests-2.27.1-informational?style=plastic&logo=appveyor)
+![](https://img.shields.io/badge/scipy-1.4.1-informational?style=plastic&logo=appveyor)
+
 
 ## Project
 
